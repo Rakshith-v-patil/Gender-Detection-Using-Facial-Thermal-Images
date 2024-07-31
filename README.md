@@ -25,21 +25,21 @@ This repository contains pre-trained deep learning models for gender detection u
 
 ResNet-50 is a 50-layer residual network developed by Kaiming He et al. It is known for its efficiency and accuracy in various image recognition tasks.
 
-- **File**: [ResNet-50.pt](https://drive.google.com/drive/folders/14usN0kr70S5mBn4r-o5tMsyxWsuYCewC)
+- **File**: [ResNet-50.pt](https://drive.google.com/file/d/1aPvqCBuC7XQTMtviU2Zad5JEA-RlUvVm/view?usp=drive_link)
 - **Parameters**: 23.5 million
 
 ### DenseNet-121
 
 DenseNet-121 is a densely connected convolutional network developed by Gao Huang et al. It improves information flow between layers and is known for achieving high accuracy with fewer parameters.
 
-- **File**: [DenseNet-121.pt](https://drive.google.com/drive/folders/14usN0kr70S5mBn4r-o5tMsyxWsuYCewC)
+- **File**: [DenseNet-121.pt](https://drive.google.com/file/d/1waFEJ777-SPBlWwJPS56afn6FlXF2QBz/view?usp=drive_link)
 - **Parameters**: 8 million
 
 ### ResNet-101
 
 ResNet-101 is a deeper variant of the ResNet architecture, with 101 layers. It provides improved performance on complex image recognition tasks.
 
-- **File**: [ResNet-101.pt](https://drive.google.com/drive/folders/14usN0kr70S5mBn4r-o5tMsyxWsuYCewC)
+- **File**: [ResNet-101.pt](https://drive.google.com/file/d/15bs10bBwZz81vU9lEN5_CX0SFwIIlVcO/view?usp=drive_link)
 - **Parameters**: 44.6 million
 
 ## Datasets Used
