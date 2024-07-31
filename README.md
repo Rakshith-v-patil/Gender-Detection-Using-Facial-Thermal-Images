@@ -84,8 +84,8 @@ Ensure you have the following installed:
    ```bash
    pip install torch torchvision
    pip install torchsummary
-   pip install numpy matplotlib
-   pip install pillow
+   pip install numpy
+   pip install matplotlib
    ```
 
 ## Usage
