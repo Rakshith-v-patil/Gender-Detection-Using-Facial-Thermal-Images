@@ -52,9 +52,11 @@ To download the complete datasets, please use the following link:
 ### Prerequisites
 
 Ensure you have the following installed:
-
+- Windows OS
 - Python 3.8+
 - pip
+- CUDA Toolkit
+- Jupyter
 
 ### Setup
 
